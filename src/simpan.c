@@ -1,6 +1,6 @@
 /*
 
-  Because it's not a *cough* Brawn watch. :)
+Simple analog watch with date
 
  */
 
